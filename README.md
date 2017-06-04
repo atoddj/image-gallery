@@ -1,1 +1,1 @@
-# image-gallery
+# Minimal photo blog
